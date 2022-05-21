@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Cleyson Duarte and I'm a student and software developer. 👨🏾‍💻
+## Hello there 👋 My name is Cleyson and I'm a student and software developer. 👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/Cleysond10">
