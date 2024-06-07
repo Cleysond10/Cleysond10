@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Cleyson and I'm a student and software developer. 👨🏾‍💻
+## Hey there 👋 Welcome to my profile! Check out my skills and stats bellow. 👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/Cleysond10">
