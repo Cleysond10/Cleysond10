@@ -16,7 +16,7 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
 <br/>
